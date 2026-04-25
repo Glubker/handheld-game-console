@@ -23,7 +23,7 @@ OS configuration, and complete build process is available at
 
     handheld-game-console/
     ├── pcb/                          # KiCad PCB design files and Gerbers
-    ├── v1-raspberry-pi/              # Original build: Raspberry Pi 4 + C++/Raylib
+    ├── raspberry-pi/                 # Original build: Raspberry Pi 4 + C++/Raylib
     │   ├── game_console/             # Main interface and built-in games
     │   │   ├── main.cpp
     │   │   ├── src/                  # UI components and utilities
@@ -36,7 +36,7 @@ OS configuration, and complete build process is available at
     │   │       └── platformer/
     │   ├── gpio_testing.py           # GPIO input testing script (gpiozero)
     │   └── gpio_to_keypress.c        # Input handler (WiringPi)
-    └── v2-radxa-rock-5c/             # Current build: Radxa Rock 5C + Flutter
+    └── radxa-rock-5c/                # Current build: Radxa Rock 5C + Flutter
         ├── flutter_src/              # Flutter interface source
         │   └── lib/
         │       ├── main.dart
