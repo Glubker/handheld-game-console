@@ -1,5 +1,7 @@
 # Handheld Game Console
 
+![Photo of the rebuilt game console](https://lubker.dk/Images/ProjectImages/GameConsole/V2_1.png)
+
 A personal project documenting the design and build of a fully custom 
 handheld game console from scratch. This repository contains all source 
 code, PCB design files, and supporting materials for the build. It is 
@@ -56,3 +58,4 @@ MIT. See [LICENSE](LICENSE) for details.
 
 If you use this project as a reference or build upon it, a credit or link 
 back to [lubker.dk/gameconsole](https://lubker.dk/gameconsole) is appreciated.
+
